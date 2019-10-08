@@ -5,6 +5,9 @@ there is a little bit of description when you run the code on the index page
 
 what you need to do to let it run:
 
+Before everyhing go to https://myaccount.google.com/lesssecureapps 
+and enable the button so you can send the email from your gmail
+
 # On Windows : 
 //  assuming you have the python already installed 
 1. ``` python get-pip.py ``` To install pip

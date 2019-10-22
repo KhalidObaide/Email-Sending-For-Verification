@@ -8,6 +8,9 @@ what you need to do to let it run:
 Before everyhing go to https://myaccount.google.com/lesssecureapps 
 and enable the button so you can send the email from your gmail
 
+# First of all
+search for google less secure app and enable the button 
+
 # On Windows : 
 //  assuming you have the python already installed 
 1. ``` python get-pip.py ``` To install pip
